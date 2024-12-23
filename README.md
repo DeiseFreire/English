@@ -3,7 +3,7 @@
 
 **Sobre este projeto:**
 
-Este repositório documenta o meu aprendizado do inglês. Utilizei o wiki para organizar meus estudos, notas e exercícios. 
+Este repositório documenta o meu aprendizado do inglês. Eu estou utilizando o [wiki](https://github.com/DeiseFreire/English/wiki) para organizar meus estudos, notas e exercícios. 
 
 **Conteúdo:**
 
