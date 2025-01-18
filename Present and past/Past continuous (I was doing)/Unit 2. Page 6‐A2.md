@@ -1,13 +1,12 @@
-Unit 2. Page 6‐A2
-
-MURPHY, Raymond. English grammar in use. Cambridge: Cambridge University Press, 2002. Unit 3 page 6-A2.
+### MURPHY, Raymond. English grammar in use. Cambridge: Cambridge University Press, 2002. Unit 3 page 6-A2.
 
 
 present simple (**I do**)
 We use the simple for things in general or things that happen repeatedly.
-       I do
-past.  now. future.
-
+```
+                          I do
+past_____________________ now._____________________ future.
+```
 - [ ] Water **boils** at 100 degrees Celsius.
 - [ ] Excuse me, **do** you **speak** English?
 - [ ] It **doesn’t rain** very much in summer.
